@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Framework.E2E.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Validating the Title of pages(failed)" verbose="0">
+    <classes>
+      <class name="Framework.E2E.validateTitle">
+        <methods>
+          <include name="driverOpen"/>
+          <include name="driverClose"/>
+          <include name="getTitle"/>
+        </methods>
+      </class> <!-- Framework.E2E.validateTitle -->
+    </classes>
+  </test> <!-- Validating the Title of pages(failed) -->
+  <test thread-count="5" parallel="tests" name="H3 title(failed)" verbose="0">
+    <classes>
+      <class name="Framework.E2E.ValidateH3Title">
+        <methods>
+          <include name="h3Title"/>
+          <include name="driverOpen"/>
+          <include name="driverClose"/>
+        </methods>
+      </class> <!-- Framework.E2E.ValidateH3Title -->
+    </classes>
+  </test> <!-- H3 title(failed) -->
+  <test thread-count="5" parallel="tests" name="Logging into the pagess(failed)" verbose="0">
+    <classes>
+      <class name="Framework.E2E.homeLogin">
+        <methods>
+          <include name="Page"/>
+          <include name="driverOpen"/>
+          <include name="driverClose"/>
+        </methods>
+      </class> <!-- Framework.E2E.homeLogin -->
+    </classes>
+  </test> <!-- Logging into the pagess(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,9 @@
+16:45:24.635 [TestNG-tests-1] DEBUG Framework.E2E.validateTitle - FEATURED COURSES
+16:45:25.676 [TestNG-tests-1] INFO  Framework.E2E.validateTitle - CONTACT
+16:45:34.305 [TestNG-tests-2] INFO  Framework.E2E.homeLogin - AnushaReddy
+16:45:37.771 [TestNG-tests-2] INFO  Framework.E2E.homeLogin - Data Entered Successfully
+16:45:44.591 [TestNG-tests-2] INFO  Framework.E2E.homeLogin - Prudvinath Reddy
+16:45:47.394 [TestNG-tests-2] INFO  Framework.E2E.homeLogin - Data Entered Successfully
+20:03:01.701 [TestNG-tests-3] INFO  Framework.E2E.base - chrome
+20:03:01.701 [TestNG-tests-2] INFO  Framework.E2E.base - chrome
+20:03:01.701 [TestNG-tests-1] INFO  Framework.E2E.base - chrome

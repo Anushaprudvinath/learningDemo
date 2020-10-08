@@ -1,0 +1,8 @@
+16:44:54.654 [main] INFO  Framework.E2E.base - chrome
+16:45:10.050 [main] INFO  Framework.E2E.base - chrome
+16:45:29.999 [main] INFO  Framework.E2E.validateTitle - Starting Chrome Driver
+16:46:52.358 [main] INFO  Framework.E2E.validateTitle - Got the academy URL
+16:46:52.465 [main] INFO  Framework.E2E.base - chrome
+16:49:54.928 [main] DEBUG Framework.E2E.validateTitle - FEATURED COURSES
+16:50:39.206 [main] INFO  Framework.E2E.homeLogin - AnushaReddy
+16:50:39.815 [main] INFO  Framework.E2E.homeLogin - Data Entered Successfully

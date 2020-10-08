@@ -1,0 +1,8 @@
+12:28:37.458 [main] INFO  Framework.E2E.base - chrome
+12:28:51.103 [main] INFO  Framework.E2E.validateTitle - Starting Chrome Driver
+12:29:02.957 [main] INFO  Framework.E2E.validateTitle - Got the academy URL
+12:29:52.183 [TestNG-tests-1] INFO  Framework.E2E.base - chrome
+12:29:52.183 [TestNG-tests-2] INFO  Framework.E2E.base - chrome
+12:29:52.183 [TestNG-tests-3] INFO  Framework.E2E.base - chrome
+12:30:10.828 [TestNG-tests-1] INFO  Framework.E2E.validateTitle - Starting Chrome Driver
+12:30:10.850 [TestNG-tests-3] INFO  Framework.E2E.validateTitle - Starting Chrome Driver

@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 3, Errors: 0, Skipped: 7, Time elapsed: 6.079 s <<< FAILURE! - in TestSuite
+driverOpen(Framework.E2E.ValidateH3Title)  Time elapsed: 4.171 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Framework.E2E.ValidateH3Title.driverOpen(ValidateH3Title.java:25)
+
+driverOpen(Framework.E2E.homeLogin)  Time elapsed: 4.188 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Framework.E2E.homeLogin.driverOpen(homeLogin.java:28)
+
+driverOpen(Framework.E2E.validateTitle)  Time elapsed: 4.188 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Framework.E2E.validateTitle.driverOpen(validateTitle.java:31)
+

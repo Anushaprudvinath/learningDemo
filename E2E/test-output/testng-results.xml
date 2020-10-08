@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-23T08:02:39 IST" name="Default suite" finished-at="2020-09-23T08:03:32 IST" duration-ms="53311">
+    <groups>
+    </groups>
+    <test started-at="2020-09-23T08:02:39 IST" name="Default test" finished-at="2020-09-23T08:03:32 IST" duration-ms="53311">
+      <class name="Framework.E2E.homeLogin">
+        <test-method is-config="true" signature="driverOpen()[pri:0, instance:Framework.E2E.homeLogin@2e2ff723]" started-at="2020-09-23T08:02:39 IST" name="driverOpen" finished-at="2020-09-23T08:02:55 IST" duration-ms="16039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverOpen -->
+        <test-method signature="Page(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Framework.E2E.homeLogin@2e2ff723]" started-at="2020-09-23T08:02:55 IST" name="Page" data-provider="getData" finished-at="2020-09-23T08:03:24 IST" duration-ms="29265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anushareddy768652@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anupuvi142020]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AnushaReddy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Page -->
+        <test-method signature="Page(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Framework.E2E.homeLogin@2e2ff723]" started-at="2020-09-23T08:03:24 IST" name="Page" data-provider="getData" finished-at="2020-09-23T08:03:32 IST" duration-ms="7776" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prudvinathreddy6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anupuvi142020]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Prudvinath Reddy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Page -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:Framework.E2E.homeLogin@2e2ff723]" started-at="2020-09-23T08:03:32 IST" name="driverClose" finished-at="2020-09-23T08:03:32 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- Framework.E2E.homeLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
